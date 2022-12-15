@@ -1,3 +1,6 @@
+## 6.6.3 - 2022-12-15
+- Final-ize variables to prevent build error
+
 ## 6.6.2 - 2022-02-25
 - Update typings
 
