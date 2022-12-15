@@ -142,11 +142,11 @@ If timeouts are needed, please check out the Angular wrapper and its example.
 
 Cordova
 
-```cordova plugin add cordova-plugin-bluetoothle```
+```cordova plugin add cordova-plugin-bluetoothle-fork-ch```
 
 PhoneGap Build
 
-```<gap:plugin name="cordova-plugin-bluetoothle" source="npm" />```
+```<gap:plugin name="cordova-plugin-bluetoothle-fork-ch" source="npm" />```
 
 
 ## Debugging ##
